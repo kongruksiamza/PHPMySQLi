@@ -1,8 +1,3 @@
-## 🚀 Guideline & Documents
-- แนวทางการเรียนรู้การพัฒนาเว็บแอพพลิเคชั่น (Web Development) [อ่านบทความ](https://github.com/kongruksiamza/web-guideline)
-- แนวทางการเรียนรู้การเขียนโปรแกรมภาษา PHP (PHP Guideline) [อ่านบทความ](https://github.com/kongruksiamza/php-guideline)
-- เอกสารสอนเขียนโปรแกรมฟรี (.pdf) [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education)
-
 ## 🎓 คอร์สเรียนที่น่าสนใจ [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/kong-ruksiam/)
 - [พัฒนาเว็บด้วย PHP PDO & MySQL (CRUD & Authentication)](https://www.udemy.com/course/php-pdo-mysql-crud/?referralCode=03E8B0ED8C7AC9835947)
 
